@@ -1,4 +1,4 @@
-# 📱 Projeto iPhone Funcionalidades
+# Projeto iPhone Funcionalidades
 
 Este projeto foi desenvolvido como parte de um desafio de análise de negócios e programação orientada a objetos. O objetivo é simular as principais funcionalidades de um iPhone, representando-o como um **Reprodutor Musical**, **Aparelho Telefônico** e **Navegador na Internet**.
 
@@ -27,6 +27,12 @@ O código é organizado em interfaces e uma classe principal que implementa as f
 - **📲 iPhone**
 
 A classe `iPhone` implementa todos os métodos definidos nas interfaces, simulando o comportamento de um dispositivo iPhone.
+
+## Diagrama UML
+
+Você pode visualizar o diagrama clicando [aqui](DiagramaUML.png).
+
+
 
 ## Como Executar o Projeto
 
